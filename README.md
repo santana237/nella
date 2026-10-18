@@ -32,7 +32,7 @@
 
 </div>
 
-**Nella** est une assistante IA professionnelle de **Nella Group**. Elle répond, rédige, cherche sur le Web en citant ses sources et **construit des sites et des applications** qu’on voit tourner en direct. Elle est disponible sur **iPhone, Android, Mac, Windows, Linux, le Web et VS Code**, en six langues : français, anglais, espagnol, portugais, allemand et arabe.
+**Nella** est une assistante IA professionnelle de **Nella Group**. Elle répond, rédige, cherche sur le Web en citant ses sources et **construit des sites et des applications** qu’on voit tourner en direct. Elle est disponible sur **iPhone, Android, Mac, Windows, Linux, le Web, VS Code, Android Studio et les navigateurs**, en six langues : français, anglais, espagnol, portugais, allemand et arabe.
 
 Ce dépôt est la **vitrine publique** de Nella : téléchargements, notes de version et signalement des problèmes. Le code source n’y est pas publié.
 
@@ -49,6 +49,8 @@ Ce dépôt est la **vitrine publique** de Nella : téléchargements, notes de ve
 | <img src="https://img.shields.io/badge/-333333?style=flat-square&logo=linux&logoColor=white" alt=""> | **Linux** x64 (Ubuntu 22.04+) | [AppImage, .deb](https://github.com/santana237/nella/releases/latest) · [nellacorp.com](https://nellacorp.com/fr/download/linux) | Disponible · Flathub bientôt |
 | <img src="https://img.shields.io/badge/-3D4BFF?style=flat-square&logo=googlechrome&logoColor=white" alt=""> | **Web** | [nellacorp.com/app](https://nellacorp.com/app) | Disponible, sans installation |
 | <img src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE3LjUgMS41IDkgOS4yIDQuMiA1LjUgMiA2LjZ2MTAuOGwyLjIgMS4xTDkgMTQuOGw4LjUgNy43IDQuNS0yLjJWMy43em0wIDUuMnYxMC42TDExIDEyeiIvPjwvc3ZnPg==&logoColor=white" alt=""> | **VS Code** et éditeurs compatibles | [.vsix](https://github.com/santana237/nella/releases/latest) · [nellacorp.com](https://nellacorp.com/fr/download/vscode) | Disponible · Marketplace et Open VSX bientôt |
+| <img src="https://img.shields.io/badge/-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt=""> | **Chrome, Edge, Brave, Opera, Firefox** | [Extension (.zip)](https://nellacorp.com/fr/download/browser) | Disponible · boutiques bientôt |
+| <img src="https://img.shields.io/badge/-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt=""> | **Android Studio**, IntelliJ, PyCharm, WebStorm | [Plugin (.zip)](https://nellacorp.com/fr/download/jetbrains) | Disponible · mises à jour automatiques |
 
 Les applications se mettent à jour d’elles-mêmes, chacune par le circuit de sa plateforme. Un compte gratuit suffit pour commencer, et on peut aussi essayer **sans compte**.
 
@@ -107,7 +109,7 @@ Logiciel **propriétaire**, © 2026 **Nella Group**. Tous droits réservés. Les
 
 ## English
 
-**Nella** is a professional AI assistant by **Nella Group**. It answers, writes, searches the web with cited sources and **builds websites and apps you can run instantly**. It is available on **iPhone, Android, Mac, Windows, Linux, the web and VS Code**, in six languages.
+**Nella** is a professional AI assistant by **Nella Group**. It answers, writes, searches the web with cited sources and **builds websites and apps you can run instantly**. It is available on **iPhone, Android, Mac, Windows, Linux, the web, VS Code, Android Studio and web browsers**, in six languages.
 
 This repository is Nella’s **public home**: downloads, release notes and issue reports. The source code is not published here.
 
@@ -120,6 +122,8 @@ This repository is Nella’s **public home**: downloads, release notes and issue
 | Linux x64 | [AppImage, .deb](https://github.com/santana237/nella/releases/latest) · [nellacorp.com](https://nellacorp.com/en/download/linux) |
 | Web | [nellacorp.com/app](https://nellacorp.com/app) |
 | VS Code | [.vsix](https://github.com/santana237/nella/releases/latest) · [nellacorp.com](https://nellacorp.com/en/download/vscode) |
+| Chrome, Edge, Brave, Opera, Firefox | [Browser extension](https://nellacorp.com/en/download/browser) |
+| Android Studio and JetBrains IDEs | [Plugin](https://nellacorp.com/en/download/jetbrains) |
 
 Found a bug? [Open an issue](https://github.com/santana237/nella/issues/new/choose). For account or billing questions, write to **support@nellacorp.com**. Report security issues privately, as described in [SECURITY.md](SECURITY.md).
 

@@ -1,0 +1,25 @@
+name: Proposer une idée · Feature request
+description: Une fonction qui rendrait Nella plus utile. A feature that would make Nella more useful.
+labels: ["idée"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Votre idée · Your idea
+      description: Ce que vous aimeriez faire avec Nella, et pourquoi. What you would like to do with Nella, and why.
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Plateforme concernée · Platform
+      multiple: true
+      options:
+        - Toutes · All
+        - iPhone / iPad
+        - Android
+        - Mac
+        - Windows
+        - Linux
+        - Web
+        - VS Code

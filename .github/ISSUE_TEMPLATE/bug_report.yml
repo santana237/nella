@@ -1,0 +1,41 @@
+name: Signaler un bug · Bug report
+description: Quelque chose ne fonctionne pas comme prévu. Something doesn't work as expected.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci ! N'écrivez jamais de mot de passe, de code de connexion ni de numéro de carte dans ce ticket public.
+        Thank you! Never post passwords, sign-in codes or card numbers in this public issue.
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Plateforme · Platform
+      options:
+        - iPhone / iPad
+        - Android
+        - Mac
+        - Windows
+        - Linux
+        - Web (nellacorp.com/app)
+        - VS Code
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version de l'app · App version
+      description: Réglages › À propos. Settings › About.
+      placeholder: "1.0.0 (2)"
+  - type: textarea
+    id: what
+    attributes:
+      label: Que s'est-il passé ? · What happened?
+      description: Les étapes pour reproduire, ce que vous attendiez et ce que vous avez vu. Steps to reproduce, what you expected and what you saw.
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Captures d'écran · Screenshots
+      description: Facultatif. Masquez toute information personnelle. Optional. Hide any personal information.

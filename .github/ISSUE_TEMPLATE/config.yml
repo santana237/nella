@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Compte, abonnement ou paiement · Account, subscription or billing
+    url: https://nellacorp.com/fr/contact
+    about: Écrivez au support (jamais de mot de passe ni de numéro de carte ici). Contact support (never post passwords or card numbers here).
+  - name: Faille de sécurité · Security vulnerability
+    url: https://github.com/santana237/nella/blob/main/SECURITY.md
+    about: Signalez-la en privé, jamais dans un ticket public. Report it privately, never in a public issue.
